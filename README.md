@@ -13,4 +13,10 @@ A partir dos dados presentes em "DOC-20231129-WA0008_.xml" :
 1.4) A diferença absoluta (sem sinal) da latitude e da longitude entre o primeiro e o último trackpoint da etapa.
 
 
+## Como executar este código
 
+Dentro do diretório 'running-route-xml-file-analysis', executar :
+
+``` 
+python main.py 
+```
