@@ -15,8 +15,20 @@ A partir dos dados presentes em "DOC-20231129-WA0008_.xml" :
 
 ## Como executar este código
 
-Dentro do diretório 'running-route-xml-file-analysis', executar :
+1 - Primeiramente você deve ter python instalado em sua máquina
+
+2 - Instalar as dependências deste projeto  
+No terminal, dentro do diretório **running-route-xml-file-analysis**, executar o seguinte comando:
+
+``` 
+pip install -r requirements.txt
+``` 
+
+3 - Por fim, executar o script principal
 
 ``` 
 python main.py 
 ```
+
+
+O output do script são as respostas para as questões 1.2, 1.3 e 1.4
